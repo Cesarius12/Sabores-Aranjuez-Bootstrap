@@ -30,15 +30,7 @@ restaurante-sabores-aranjuez/
 ├── styles.css                # Archivo de estilos personalizados
 └── Logo.png                  # Logo del restaurante
 Instrucciones de uso
-Clona este repositorio en tu máquina local:
 
-bash
-Copiar
-Editar
-git clone https://github.com/Cesarius12/restaurante-sabores-aranjuez.git
-Abre el archivo index.html en tu navegador para ver la página web en acción.
-
-Modifica el archivo styles.css para ajustar el estilo según tus necesidades.
 
 Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través del GitHub
